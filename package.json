@@ -1,5 +1,5 @@
 {
-  "name": "cryptonetyn game-toolkit", 
+  "name": "game-toolkit", 
   "version": "1.0.0", 
   "description": "by cryptonetyn", 
   "main": "./src/index.js",
