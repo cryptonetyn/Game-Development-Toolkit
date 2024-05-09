@@ -1,20 +1,23 @@
 {
-  "name": "cryptonetyn-game-toolkit", 
-  "version": "1.1.0", 
-  "description": "by cryptonetyn", 
+  "name": "cryptonetyn-game-toolkit",
+  "version": "1.2.0",
+  "description": "by cryptonetyn",
   "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/cryptonetyn/Game-Development-Toolkit.git" 
+    "url": "https://github.com/cryptonetyn/Game-Development-Toolkit.git"
   },
-  "keywords": [ 
-    "", 
+  "keywords": [
+    "",
     "",
     ""
   ],
-  "author": "", 
-  "license": "MIT"
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "taskscheduler-creqq": "^1.0.0"
+  }
 }
