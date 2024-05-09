@@ -1,4 +1,3 @@
-\```markdown
 # Game Development Toolkit
 
 A lightweight JavaScript package for creating and managing browser-based games.
